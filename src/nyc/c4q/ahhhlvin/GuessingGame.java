@@ -34,7 +34,7 @@ public class GuessingGame {
                 System.out.println("That number is too high! ");
             } else {
                 System.out.println("You are correct, hooray!! :)");
-                done = true;            // same as entering "break;" to break out of the "while (!done)" loop, so wo't be prompted to please enter number 
+                done = true;            // same as entering "break;" to break out of the "while (!done)" loop, so wo't be prompted to please enter number
             }
 
 
